@@ -13,7 +13,7 @@
  💬 Ask me about ... Coding, research, tech stacks
  
  
- ⚡ Fun fact: ... I do photography as a part time passion :)
+ ⚡ Fun fact: ... I do photography as a part time passion (do check out my website kushalverma.xyz) :)
 
 <!--
 **vkushal28/vkushal28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
