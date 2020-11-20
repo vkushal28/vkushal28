@@ -1,7 +1,15 @@
 ### Hi there 👋
+
+
  🔭 I’m currently working on ... https://www.kushalverma.xyz/
+ 
+ 
  🌱 I’m currently learning ... ReactJS
+ 
+ 
  📫 How to reach me: ... drop me a mail on : vermakushal.28@gmail.com
+ 
+ 
  ⚡ Fun fact: ... I do photography as a part time passion :)
 
 <!--
