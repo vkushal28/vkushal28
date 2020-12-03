@@ -4,7 +4,7 @@
  🔭 I’m currently working on my photography website https://www.kushalverma.xyz/ built completely on reactJS.
  
  
- 🌱 I’m currently learning ReactJS, AngularJS, vanilla JS.
+ 🌱 I’m currently learning ReactJS, AngularJS, NodeJS, Javascript, mongoDB, etc.
  
  
  📫 How to reach me? drop me a mail at vermakushal.28@gmail.com
