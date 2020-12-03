@@ -1,19 +1,19 @@
 ### Hi there 👋
 
 
- 🔭 I’m currently working on ... https://www.kushalverma.xyz/
+ 🔭 I’m currently working on my photography website https://www.kushalverma.xyz/ built completely on reactJS.
  
  
- 🌱 I’m currently learning ... ReactJS
+ 🌱 I’m currently learning ReactJS, AngularJS, vanilla JS.
  
  
- 📫 How to reach me: ... drop me a mail at : vermakushal.28@gmail.com
+ 📫 How to reach me? drop me a mail at vermakushal.28@gmail.com
  
  
  💬 Ask me about ... Coding, research, tech stacks
  
  
- ⚡ Fun fact: ... I do photography as a part time passion (do check out my website kushalverma.xyz) :)
+ ⚡ Fun fact: I do photography as a part time passion (do check out my website kushalverma.xyz and share your reviews) :)
 
 <!--
 **vkushal28/vkushal28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
