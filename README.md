@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Implementing React microservices architecture & working with MERN stack.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack web dev projects.<br><br>🌱 **I’m currently learning:**  <br>MERN stack, good code ethics.<br><br>💬 **Ask me about:**  <br>JavaScript, Typescript, ReactJS, Webpack, Material UI, Tailwind CSS, Node.js.<br><br>⚡ **Fun fact:**  <br>I love capturing things in my camera.
+🔭 **I’m currently working on:**  <br>Developing impressive UI while freelancing, Learning Web3, https://www.npmjs.com/package/react-jumping-text, https://kushalverma.vercel.app/.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack web dev projects.<br><br>🌱 **I’m currently learning:**  <br>NEXT JS, web3 <br><br>💬 **Ask me about:**  <br>JavaScript, Typescript, ReactJS, Webpack, Material UI, Tailwind CSS, Node.js.<br><br>⚡ **Fun fact:**  <br>I love capturing things in my camera.
 
 
 ## 🌐 Socials:
