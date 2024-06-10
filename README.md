@@ -9,9 +9,9 @@
 <br><br>🌱 **I’m currently learning:**  
 <br>NEXT JS, web3 
 <br><br>💬 **Ask me about:**  
-<br>JavaScript, Typescript, ReactJS, Webpack, Material UI, Tailwind CSS, Node.js.
+<br>JavaScript, Typescript, ReactJS, Webpack, Material UI, Tailwind CSS, Node.js, Shad cn UI
 <br><br>⚡ **Fun fact:**  
-<br>I also love capturing things through my lens : https://www.instagram.com/_kvkushal/.
+<br>I also love capturing things through my lens : https://www.instagram.com/_kvkushal/
 
 
 ## 🌐 Socials:
