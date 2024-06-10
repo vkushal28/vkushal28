@@ -1,8 +1,8 @@
 # 💫 About Me:
 🔭 **I’m currently working on:**  
 <br>Developing impressive UI while freelancing, Learning Web3, 
-<br> Launched 1st npm package : https://www.npmjs.com/package/react-jumping-text, 
-<br> Portfolio : https://kushalverma.vercel.app/.
+<br> Launched 1st npm package : https://www.npmjs.com/package/react-jumping-text
+<br> Portfolio : https://kushalverma.vercel.app/
 <br><br>
 👯 **I’m looking to collaborate on:**  
 <br>Fullstack web dev projects.
